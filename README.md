@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://camomille-artwork.com"> `` &lt;img src="./profile/banner.svg" width="100%" alt="camomille artwork" /&gt; ``</a>
+  <a href="https://camomille-artwork.com"><img src="./profile/banner.svg" width="100%" alt="camomille artwork" /></a>
 </p>
 
 <h1 align="center">Camila Santos · camomille</h1>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://camomille-artwork.com"><img src="https://img.shields.io/badge/Portfolio-E91E8C?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/camilasantos1294/"> ` &lt;img src="https://img.shields.io/badge/LinkedIn-241C49?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /&gt; `</a>
+  <a href="https://www.linkedin.com/in/camilasantos1294/"><img src="https://img.shields.io/badge/LinkedIn-241C49?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/camilacsantos"><img src="https://img.shields.io/badge/Behance-241C49?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://www.instagram.com/_.camomille/"><img src="https://img.shields.io/badge/Instagram-241C49?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.last.fm/user/camomiIIe"><img src="https://img.shields.io/badge/Last.fm-241C49?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" /></a>
@@ -30,7 +30,7 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 ## 🏢 Where I work
 
 <p>
-  <a href="https://github.com/itau"> `` &lt;img src="./profile/org-itau.svg" align="left" width="48" height="48" alt="Itaú Unibanco logo" /&gt; ``</a>
+  <a href="https://github.com/itau"><img src="./profile/org-itau.svg" align="left" width="48" height="48" alt="Itaú Unibanco logo" /></a>
   <strong><a href="https://github.com/itau">Itaú Unibanco</a></strong>
   <br />
   Product & Motion Designer.
@@ -41,8 +41,8 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 ## 🚀 Selected work
 
 <p align="center">
-  <a href="https://camomille-artwork.com/work/rd-station"> ` &lt;img src="./profile/pin-rd-station.svg" width="400" alt="Motion Design Style Guide, RD Station" /&gt; `</a>
-  <a href="https://github.com/camomiIIe/portfolio-camomille"> `` &lt;img src="./profile/pin-portfolio-camomille.svg" width="400" alt="portfolio-camomille" /&gt; ``</a>
+  <a href="https://camomille-artwork.com/work/rd-station"><img src="./profile/pin-rd-station.svg" width="400" alt="Motion Design Style Guide, RD Station" /></a>
+  <a href="https://github.com/camomiIIe/portfolio-camomille"><img src="./profile/pin-portfolio-camomille.svg" width="400" alt="portfolio-camomille" /></a>
 </p>
 
 - **[Motion Design Style Guide](https://camomille-artwork.com/work/rd-station), RD Station (2021).** Turning a brand book into a shared motion language, so any designer on the team could ship work that felt unmistakably RD. Five brand attributes, five motion behaviors, one reference for everyone.
@@ -84,7 +84,7 @@ I focus on visual, motion, and systems that connect usability to visual value: m
 Rhythm and timing start with what's playing. Here's what I've been listening to:
 
 <p align="center">
-  <a href="https://www.last.fm/user/camomiIIe"> `` &lt;img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=camomiIIe&theme=dark&bg_color=241C49&text_color=FFFFFF&artist_color=FFD44A&meta_color=B9B6D3&accent_color=E91E8C&loved_color=E91E8C&logo_color=FFFFFF&loved=title&stats=block&count=3&width=800" alt="Recently played on Last.fm" /&gt; ``</a>
+  <a href="https://www.last.fm/user/camomiIIe"><img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=camomiIIe&theme=dark&bg_color=241C49&text_color=FFFFFF&artist_color=FFD44A&meta_color=B9B6D3&accent_color=E91E8C&loved_color=E91E8C&logo_color=FFFFFF&loved=title&stats=block&count=3&width=800" alt="Recently played on Last.fm" /></a>
 </p>
 
 ## 🤝 Working together
