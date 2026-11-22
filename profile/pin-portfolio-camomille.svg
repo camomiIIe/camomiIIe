@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" fill="none" role="img" aria-label="portfolio-camomille">
+<title>portfolio-camomille</title>
+<style>.t{font:600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#E91E8C}.d{font:400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#8C8AA8}.m{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#8C8AA8}.s{font:italic 800 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#F2F2F2;letter-spacing:.5px}</style>
+<rect x=".5" y=".5" width="399" height="119" rx="6" stroke="#8C8AA8" stroke-opacity=".35"/>
+<rect x="0" y="12" width="4" height="96" rx="2" fill="#E91E8C"/>
+<g transform="translate(25 35)"><path transform="translate(0 -13)" fill="#FFD44A" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z"/><text x="25" y="0" class="t">portfolio-camomille</text></g>
+
+<text y="62" class="d"><tspan x="25" dy="0">My portfolio, designed and built by me: Astro 5,</tspan><tspan x="25" dy="17">MDX case studies, handcrafted CSS, Lottie.</tspan></text>
+<g transform="translate(30 101)"><circle cx="0" cy="-4" r="6" fill="#BC52EE"/>
+<text x="14" y="0" class="m">Astro · Code · 2026</text></g>
+</svg>
